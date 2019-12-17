@@ -8,7 +8,7 @@ namespace ResizeImage
     {
         static void Main(string[] args)
         {
-            List<Bitmap> images = InputArchiveImages.Resize();
+            //List<Bitmap> images = InputArchiveImages.Resize();
 
             var pixel = images[0].GetPixel(0, 0);
 

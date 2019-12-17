@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marve\\source\\repos\\ResizeImage\\ResizeImage\\ResizeImage.csproj": {}
+    "E:\\-ImageCheck\\ResizeImage\\ResizeImage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marve\\source\\repos\\ResizeImage\\ResizeImage\\ResizeImage.csproj": {
+    "E:\\-ImageCheck\\ResizeImage\\ResizeImage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marve\\source\\repos\\ResizeImage\\ResizeImage\\ResizeImage.csproj",
+        "projectUniqueName": "E:\\-ImageCheck\\ResizeImage\\ResizeImage.csproj",
         "projectName": "ResizeImage",
-        "projectPath": "C:\\Users\\marve\\source\\repos\\ResizeImage\\ResizeImage\\ResizeImage.csproj",
+        "projectPath": "E:\\-ImageCheck\\ResizeImage\\ResizeImage.csproj",
         "packagesPath": "C:\\Users\\marve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marve\\source\\repos\\ResizeImage\\ResizeImage\\obj\\",
+        "outputPath": "E:\\-ImageCheck\\ResizeImage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

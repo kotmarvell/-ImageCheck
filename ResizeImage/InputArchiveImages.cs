@@ -13,9 +13,8 @@ namespace ResizeImage
         /// </summary>
         private static List<string> Input()
         {
-            string path = "C:/Users/marve/source/repos/ResizeImage/ResizeImage/input.txt";
-
-            StreamReader file = new StreamReader(path); // Загружаем файл
+            string path = "E:/-ImageCheck/ResizeImage/input.txt";
+        StreamReader file = new StreamReader(path); // Загружаем файл
             string line = "";
             List<string> images = new List<string>();
 
@@ -36,7 +35,7 @@ namespace ResizeImage
         private static List<Bitmap> ImagesToResize(List<string> imagesName)
         {
             List<Bitmap> images = new List<Bitmap>();
-            string path = "C:/Users/marve/source/repos/ResizeImage/ResizeImage/PODD_JPG/";
+            string path = "E:/-ImageCheck/ResizeImage/PODD_JPG/";
             for (int i = 0; i < imagesName.Count; i++)
             {
                 string InputFileName = path + imagesName[i];
@@ -69,7 +68,7 @@ namespace ResizeImage
 
         private static void SaveImage(List<Bitmap> images)
         {
-            string path = "C:/Users/marve/source/repos/ResizeImage/ResizeImage/assets/image";
+            string path = "E:/-ImageCheck/ResizeImage/assets/image";
             for(int count = 0; count < images.Count; count++)
             {
                 string finishPath = path + Convert.ToString(count) + ".jpg";
