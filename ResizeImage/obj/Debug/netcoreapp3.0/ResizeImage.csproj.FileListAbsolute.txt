@@ -1,0 +1,17 @@
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\bin\Debug\netcoreapp3.0\ResizeImage.exe
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\obj\Debug\netcoreapp3.0\ResizeImage.AssemblyInfoInputs.cache
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\obj\Debug\netcoreapp3.0\ResizeImage.AssemblyInfo.cs
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\bin\Debug\netcoreapp3.0\ResizeImage.deps.json
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\bin\Debug\netcoreapp3.0\ResizeImage.runtimeconfig.json
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\bin\Debug\netcoreapp3.0\ResizeImage.runtimeconfig.dev.json
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\bin\Debug\netcoreapp3.0\ResizeImage.dll
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\bin\Debug\netcoreapp3.0\ResizeImage.pdb
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\obj\Debug\netcoreapp3.0\ResizeImage.dll
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\obj\Debug\netcoreapp3.0\ResizeImage.pdb
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\obj\Debug\netcoreapp3.0\ResizeImage.csprojAssemblyReference.cache
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\marve\source\repos\ResizeImage\ResizeImage\obj\Debug\netcoreapp3.0\ResizeImage.csproj.CopyComplete
